@@ -1,0 +1,21 @@
+.container-fluid{
+  height: 30vh;
+}
+
+h2{
+  text-align: center;
+  color: white !important;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+ .header {
+   background-color: teal;
+ }
+i{
+  color: white !important;
+}
+ p{
+   font-size: 100px;
+   color: white;
+   padding-top: 20px;
+ }
